@@ -1,0 +1,2 @@
+Level1Health stats = target.GetComponent<Level1Health>();
+                    stats.TakeDamage(damage);
